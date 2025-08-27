@@ -1,3 +1,3 @@
 # Smart Parking System – Class Diagram
 
-![Class Diagram](Class Diagram.png)
+![Class Diagram](class-diagram.png)
